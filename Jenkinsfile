@@ -2,4 +2,4 @@
 
 maven()
 
-env.COMPONENT='shipping'
+env.COMPONENT="shipping"
